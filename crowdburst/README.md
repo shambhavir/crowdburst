@@ -1,3 +1,7 @@
+##Crowdburst
+I wanted to create this project as a tool people could use to implement better social distancing when shopping for groceries in their neighborhood. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
