@@ -5,7 +5,7 @@ A simple web app that allows people to practice better social distancing at loca
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [Technologies & Frameworks](#technologies)
+* [Technologies/Frameworks](#technologies)
 * [Construction](#construction)
 * [Setup](#setup)
 
@@ -16,7 +16,7 @@ I wanted to create a useful tool for the members of my community as well as make
 
 <!-- To create this web app, I used Node.js, React.js, Yelp-Fusion API, Hasura, and MongoDB Realm.  -->
 
-### Technologies & Frameworks
+### Technologies/Frameworks
  - Node.js
  - React.js
  - Yelp-Fusion API
