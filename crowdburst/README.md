@@ -5,7 +5,7 @@ A simple web app that allows people to practice better social distancing at loca
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [Technologies&Frameworks](#technologies)
+* [Technologies & Frameworks](#technologies)
 * [Construction](#construction)
 * [Setup](#setup)
 
