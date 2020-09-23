@@ -1,7 +1,6 @@
 # Crowdburst
 A simple web app that allows people to practice better social distancing at local grocery stores during the COVID-19 pandemic. 
 
-![Image](.crowdburst/client/images/cburst.jpg)
 
 ## Table of Contents
 * [Introduction](#introduction)
