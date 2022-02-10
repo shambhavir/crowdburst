@@ -22,7 +22,7 @@
     "extract-text-webpack-plugin": "^2.0.0-rc.3",
     "graphql": "^15.1.0",
     "mongodb-stitch-browser-sdk": "^4.8.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
